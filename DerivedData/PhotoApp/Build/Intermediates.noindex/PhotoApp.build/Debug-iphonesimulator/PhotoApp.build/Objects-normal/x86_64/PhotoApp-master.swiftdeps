@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "255ff49c61f2e1fd58933ad1bca1d6e7"
+build_time: [1550559558, 593234000]
+inputs:
+  "/Users/mac/Downloads/PhotoApp 2/PhotoApp/ViewControllers/LoginViewController.swift": [1528211888, 0]
+  "/Users/mac/Downloads/PhotoApp 2/PhotoApp/ViewControllers/CameraViewController.swift": [1527657027, 0]
+  "/Users/mac/Downloads/PhotoApp 2/PhotoApp/ViewControllers/CreateProfileViewController.swift": [1528212141, 0]
+  "/Users/mac/Downloads/PhotoApp 2/PhotoApp/ViewControllers/FeedViewController.swift": [1527657019, 0]
+  "/Users/mac/Downloads/PhotoApp 2/PhotoApp/Services/UserService.swift": [1528211299, 0]
+  "/Users/mac/Downloads/PhotoApp 2/PhotoApp/AppDelegate.swift": [1548274288, 0]
+  "/Users/mac/Downloads/PhotoApp 2/PhotoApp/ViewControllers/SettingsViewController.swift": [1527657903, 0]
+  "/Users/mac/Downloads/PhotoApp 2/PhotoApp/Models/PhotoUser.swift": [1528210054, 0]
+  "/Users/mac/Downloads/PhotoApp 2/PhotoApp/Helpers/Constants.swift": [1528211869, 0]
